@@ -3,7 +3,7 @@
 
 站点：[bgyservice.cn](https://bgyservice.cn)
 ## 主页截图
- ![Alt](https://cdn.bgyservice.cn/uploads%2F2022%2F11%2F17%2F1acc6963e3fa72c60a7d0ee6e37ae7c.png#pic_center)
+![Alt](https://cdn.bgyservice.cn/uploads%2F2022%2F11%2F18%2F1acc6963e3fa72c60a7d0ee6e37ae7c.png#pic_center)
  ## 网站内容
  
 

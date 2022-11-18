@@ -1,5 +1,5 @@
-## **GCGS Student Comprehensive Platform (GCGSSGP) Project Introduction**
-Good morning/noon/afternoon, fellow travelers, welcome to the Github project homepage of Guangdong Country Garden Junior High School Student Comprehensive Service Platform (GCGSSGP)
+## **GCGS Student Comprehensive Platform (GCGSSCP) Project Introduction**
+Good morning/noon/afternoon, fellow travelers, welcome to the Github project homepage of Guangdong Country Garden Junior High School Student Comprehensive Service Platform (GCGSSCP)
 
 Site: [https://bgyservice.cn](https://bgyservice.cn)
 ## Home Screenshot

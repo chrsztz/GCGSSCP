@@ -1,12 +1,11 @@
 ## **GCGS Student Comprehensive Platform (GCGSSGP) Project Introduction**
 Good morning/noon/afternoon, fellow travelers, welcome to the Github project homepage of Guangdong Country Garden Junior High School Student Comprehensive Service Platform (GCGSSGP)
 
-Site: [bgyservice.cn](https://bgyservice.cn)
+Site: [https://bgyservice.cn](https://bgyservice.cn)
 ## Home Screenshot
 ![Alt](https://cdn.bgyservice.cn/uploads%2F2022%2F11%2F18%2F1acc6963e3fa72c60a7d0ee6e37ae7c.png?Expires=1668732312#pic_center)
  ## Website content
  
-
 1. Carrying of school comprehensive cultural projects (student newspapers, radio stations, TV stations, etc.)
 2. Music appreciation (some music from HOYO-MiX)
 3. GCGS Drive (built using [Cloudreve](https://github.com/cloudreve/Cloudreve))

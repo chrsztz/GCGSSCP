@@ -1,7 +1,7 @@
-## **广碧初中学生平台（GCGSSGP）项目介绍**
+## **广碧初中学生平台（GCGSSCP）项目介绍**
 各位旅行者们大家早上/中午/下午好，欢迎来到广东碧桂园学校初中部学生综合服务平台(GCGSSGP)的Github项目主页
 
-站点：[bgyservice.cn](https://bgyservice.cn)
+站点：[https://bgyservice.cn](https://bgyservice.cn)
 ## 主页截图
 ![Alt](https://cdn.bgyservice.cn/uploads%2F2022%2F11%2F18%2F1acc6963e3fa72c60a7d0ee6e37ae7c.png?Expires=1668732312#pic_center)
  ## 网站内容

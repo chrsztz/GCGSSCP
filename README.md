@@ -43,6 +43,7 @@ Q：如何练习网站团队？
 A：你可以通过每个页面右下角的聊天标志，或是联系邮箱ztzchris@outlook.com联系我们
 ## 构建
 **记得安装必要依赖：`git`  `zip`  `MySQL数据库`等
+
 **目前代码为直接移植，未在各系统/运行环境进行测试，请谨慎操作！
 
 **克隆代码**
@@ -81,4 +82,4 @@ tar GCGSSGP-master.zip
 
 主站分别采用WordPress 6.1，Bravada，PHP7.4，宝塔7.9.4搭建
 ## 技术栈
-php+html+css
+PHP+JavaScript+CSS+SCSS+HTML
